@@ -1,4 +1,3 @@
-fraud-detection-ml-statistical-analysis
 # Statistical Analysis of Machine Learning Algorithms for Fraud Detection in Bank Transactions
 
 As the use of online banking and e-commerce grows, detecting fraudulent transactions has become a critical issue for the financial industry. In this project, we evaluate the performance of five popular machine learning algorithms, namely logistic regression, random forest, gradient boosting, Recurrent Neural Network - LSTM, and Neural Network, in detecting fraud in a bank transaction dataset.
