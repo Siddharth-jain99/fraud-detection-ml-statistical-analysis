@@ -5,8 +5,8 @@ As the use of online banking and e-commerce grows, detecting fraudulent transact
 # How to run the program
 
 - Make sure all the files are in the same directory
-- Run the change_data.py file first
-- Next either run the Label-Encoding.py or One-Hot-Encoding.py file
+- Run the change_data.ipynb file first
+- Next either run the Label Encoding.ipynb or One Hot Encoding.ipynb file
 
 ## Introduction
 
