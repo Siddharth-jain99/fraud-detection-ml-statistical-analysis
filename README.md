@@ -2,25 +2,11 @@
 
 As the use of online banking and e-commerce grows, detecting fraudulent transactions has become a critical issue for the financial industry. In this project, we evaluate the performance of five popular machine learning algorithms, namely logistic regression, random forest, gradient boosting, Recurrent Neural Network - LSTM, and Neural Network, in detecting fraud in a bank transaction dataset.
 
-# Table of Contents
+# How to run the program
 
-Introduction
-
-Related Work
-
-Dataset
-
-Preprocessing
-
-Machine Learning Algorithms
-
-Feature Importance Analysis
-
-Evaluation Metrics
-
-Results and Analysis
-
-Conclusion
+- Make sure all the files are in the same directory
+- Run the change_data.py file first
+- Next either run the Label-Encoding.py or One-Hot-Encoding.py file
 
 ## Introduction
 
